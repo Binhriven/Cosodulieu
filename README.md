@@ -12,7 +12,7 @@ Website quản lý cơ sở dữ liệu đặt phòng khách sạn với giao di
 ## Cấu Trúc Thư Mục
 
 ```
-sql-huy/
+Cosodulieu/
 ├── init.sql            # Tạo database và các bảng
 ├── seed.sql            # Dữ liệu mẫu để test
 ├── seed-runner.js      # Script chạy init.sql + seed.sql
